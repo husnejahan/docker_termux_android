@@ -14,8 +14,6 @@ In termux terminal
 
 $ pkg install git
 
-$ git clone https://mosthusnejahan@bitbucket.org/intelense/termux-setup.git
-
 $ cd termux-setup
 
 $ chmod u+x ./termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
